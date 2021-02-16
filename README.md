@@ -1,3 +1,5 @@
+![headshot](Matts_Happy_Headshot.jpg)
+
 # HelloWorld
 This is my first personal repository. <br />
 
@@ -7,4 +9,3 @@ I currently work for Healthcare IT, devloping Medical Logic Modules and am hopin
 
 ## My Hobbies
 My passion has always been gaming since an early age but I have many other hobbies as well.  I enjoy board games, golf, tennis, bowling, escape rooms, traveling, fine dining, and much more.
-![headshot](Matts Happy Headshot.jpg)
