@@ -9,3 +9,6 @@ I currently work for Healthcare IT, devloping Medical Logic Modules and am hopin
 
 ## My Hobbies
 My passion has always been gaming since an early age but I have many other hobbies as well.  I enjoy board games, golf, tennis, bowling, escape rooms, traveling, fine dining, and much more.
+
+## My favorite books
+Homeland by R.A. Salvatore, Ender's Game by Orson Scott Card, Ready Player One by Ernest Cline, and Scythe by Neal Shusterman.
